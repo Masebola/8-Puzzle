@@ -39,14 +39,8 @@ You move the blank space (represented as `0`) to rearrange the tiles.
 
 Make sure you're using **Python 3.6 or above**.
 
-### 2. Run the program
 
-```bash
-python puzzle_solver.py
-
----
-
-3. Choose your input method
+2. Choose your input method
 
 You'll be prompted to:
 
@@ -54,7 +48,7 @@ You'll be prompted to:
 
     Or generate a random, solvable puzzle
 
-4. Choose a search algorithm
+3. Choose a search algorithm
 
 Select one of the following options:
 
